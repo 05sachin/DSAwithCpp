@@ -1,0 +1,5 @@
+a = int(input("enter first num1: "));
+b = int(input("enter second num2: "));
+
+print("sum : " , a+b);
+
